@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+
+
+         .site-logo a {
+            text-transform: uppercase;
+            color: #25262a;
+            letter-spacing: .2em;
+            font-size: 20px;
+            padding-left: 10px;
+            padding-right: 10px;
+            border: 2px solid #25262a;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="site-logo">
+            @Html.ActionLink("Shoppers", "Index", "Home", new { area = "" }, new { @class = "js-logo-clone" })
+        </div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                @{
+                    if (this.User.IsInRole("Admin"))
+                    {
+                        <li class="nav-item mx-3">@Html.ActionLink("Display User", "DisplayUsers", "AdminManage")</li>
+                        <li class="nav-item mx-3">@Html.ActionLink("Display Product", "DisplayProducts", "AdminManage")</li>
+                        <li class="nav-item mx-3">@Html.ActionLink("Create Category", "Create", "category")</li>
+                        <li class="nav-item mx-3">@Html.ActionLink("View Category", "Index", "category")</li>
+                    }
+                    else if (this.User.IsInRole("Tager"))
+                    {
+                        <li class="nav-item mx-3">@Html.ActionLink("View Category", "Index", "category")</li>
+                        <li class="nav-item mx-3">@Html.ActionLink("Create Product", "Index", "Traders")</li>
+
+                    }
+                    else if(this.User.IsInRole("Customer"))
+                    {
+                        @*<li class="nav-item mx-3">@Html.ActionLink("Update Profile", "Index", "user")</li>*@
+                    }
+                }
+
+
+            </ul>
+            @Html.Partial("_LoginPartial")
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                Copyright &copy;
+
+                <script>document.write(new Date().getFullYear());</script> All rights reserved | This Site is made with <i class="icon-heart" aria-hidden="true"></i> by ITI Team
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

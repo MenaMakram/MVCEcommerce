@@ -1,0 +1,317 @@
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\MVCEcommerce.dll.config
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\MVCEcommerce.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\MVCEcommerce.pdb
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\csc.exe
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\csc.exe.config
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\csc.rsp
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\csi.exe
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\csi.exe.config
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\csi.rsp
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Console.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\vbc.exe
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\vbc.exe.config
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\vbc.rsp
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Antlr3.Runtime.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\EntityFramework.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Newtonsoft.Json.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Owin.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.Helpers.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.Mvc.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.Optimization.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.Razor.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\WebGrease.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.Helpers.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.Mvc.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.Optimization.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.Razor.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Newtonsoft.Json.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\EntityFramework.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.csprojAssemblyReference.cache
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.csproj.CopyComplete
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.dll
+C:\Users\Mathew M Nan\source\repos\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.pdb
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\MVCEcommerce.dll.config
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\MVCEcommerce.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\MVCEcommerce.pdb
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\csc.exe
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\csc.exe.config
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\csc.rsp
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\csi.exe
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\csi.exe.config
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\csi.rsp
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Console.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\vbc.exe
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\vbc.exe.config
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\vbc.rsp
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Antlr3.Runtime.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\EntityFramework.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Newtonsoft.Json.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Owin.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.Helpers.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.Mvc.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.Optimization.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.Razor.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\WebGrease.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.Helpers.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.Mvc.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.Optimization.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.Razor.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Newtonsoft.Json.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\EntityFramework.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.csprojResolveAssemblyReference.cache
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.dll
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.pdb
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.Migrations.f.resources
+C:\Users\Mina Makram\Desktop\Final Ecommerce\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.csproj.GenerateResource.Cache
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\MVCEcommerce.dll.config
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\MVCEcommerce.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\MVCEcommerce.pdb
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\csc.exe
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\csc.exe.config
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\csc.rsp
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\csi.exe
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\csi.exe.config
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\csi.rsp
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Console.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\vbc.exe
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\vbc.exe.config
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\vbc.rsp
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Antlr3.Runtime.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\EntityFramework.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Newtonsoft.Json.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Owin.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.Helpers.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.Mvc.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.Optimization.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.Razor.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\WebGrease.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.Helpers.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.Mvc.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.Optimization.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.Razor.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Newtonsoft.Json.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\EntityFramework.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.csprojResolveAssemblyReference.cache
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.Migrations.f.resources
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.csproj.GenerateResource.Cache
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.dll
+C:\Users\Mina Makram\Desktop\Projects\MVCEcommerce\MVCEcommerce\obj\Debug\MVCEcommerce.pdb

@@ -1,0 +1,89 @@
+﻿
+@using MVCEcommerce.Models
+@model List<Category>
+
+<header class="site-navbar" role="banner">
+    <div class="site-navbar-top">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-6 col-md-4 order-2 order-md-1 site-search-icon text-left">
+                    <form action=@Url.Action("search/") class="site-block-top-search">
+                        <span class="icon icon-search2"></span>
+                        <input type="text" class="form-control border-0" placeholder="Search" name="Search">
+                    </form>
+                </div>
+                <div class="col-12 mb-3 mb-md-0 col-md-4 order-1 order-md-2 text-center">
+                    <div class="site-logo">
+                        @Html.ActionLink("Shoppers", "Index", "Home", new { area = "" }, new { @class = "js-logo-clone" })
+                     </div>
+                </div>
+                <div class="col-6 col-md-4 order-3 order-md-3 text-right">
+                    <div class="site-top-icons">
+                        <ul>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <li><a href="@Url.Action("Index", "user")"><span class="icon icon-person"></span></a></li>
+
+                            }
+                            else
+                            {
+
+                                <li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+                                <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+
+                            }
+                            <!--<li><a href="#"><span class="icon icon-heart-o"></span></a></li>-->
+                            @if (!this.User.IsInRole("Admin") && !this.User.IsInRole("Tager"))
+                            {
+                                <li>
+                                    <a href="@Url.Action("cart", "Home")" class="site-cart">
+                                        <span class="icon icon-shopping_cart"></span>
+                                        @if ((List<Dto_Cart>)Session["Products"] != null)
+                                        {
+                                            <span class="count">@(((List<Dto_Cart>)Session["Products"]).Count)</span>
+                                        }
+                                        else
+                                        {
+
+                                            <span class="count">0</span>
+
+                                        }
+                                    </a>
+                                </li>
+                            }
+                            <li class="d-inline-block d-md-none ml-md-0"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu"></span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav class="site-navigation text-right text-md-center" role="navigation">
+        <div class="container">
+            <ul class="site-menu js-clone-nav d-none d-md-block">
+                <li class="active">
+                    @Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "active" })
+                </li>
+                <li>
+                    @Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "active" })
+
+                </li>
+                <li>
+                    @Html.ActionLink("Shop", "Shop", "Home", new { area = "" }, new { @class = "active" })
+                </li>
+                <li class="has-children">
+                    <a href="#">Catalogue</a>
+                    <ul class="dropdown">
+                        @foreach (var item in Model)
+                        {
+                            <li>@Html.ActionLink("" + item.Name, "Shop/" + item.ID, "Home", new { area = "" }, new { @class = "active" })</li>
+                        }
+
+                    </ul>
+                </li>
+
+                <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "active" })</li>
+            </ul>
+        </div>
+    </nav>
+</header>

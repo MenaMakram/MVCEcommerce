@@ -1,0 +1,44 @@
+﻿@model MVCEcommerce.Models.Product
+
+@{
+    ViewBag.Title = "Detailspro";
+}
+
+<h2>Detailspro</h2>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Images)
+        </dt>
+
+        <dd>
+
+     
+            <img src="@Url.Content("~/images/" + Model.Images)" width="300px" height="300px" />
+
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |*@ 
+    @Html.ActionLink("Back to List", "DisplayProducts")
+</p>

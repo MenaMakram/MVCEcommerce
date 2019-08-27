@@ -1,0 +1,128 @@
+﻿@model MVCEcommerce.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Products</h4>
+    <hr />
+    <div class="row">
+        <div class="col-6">
+            <img class="card-img-top" src="@Url.Content("~/images/" + Model.Images)">
+        </div>
+        <div class="col-6">
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Price)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Price)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Quantity)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Quantity)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.ExpireDate)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.ExpireDate)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Description)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Description)
+                </dd>
+            </dl>
+        </div>
+    </div>
+    @*<dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.user.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.user.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExpireDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExpireDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Images)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Images)
+        </dd>
+
+    </dl>*@
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

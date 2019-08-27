@@ -1,0 +1,46 @@
+﻿@model MVCEcommerce.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>ApplicationUser</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           
+
+
+        </dt>
+
+
+        <dd>
+            <span style="font-weight:500" >@Html.DisplayNameFor(model => model.Email) :</span>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.ActionLink("Change your password", "ChangePassword", "Manage")
+        </dt>
+        <dd>
+            <span style="font-weight:500">@Html.DisplayNameFor(model => model.PhoneNumber) :</span>
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+
+
+        <dd>
+            <span style="font-weight:500">@Html.DisplayNameFor(model => model.UserName):</span>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+  
+
+    </dl>
+</div>
+<p>
+
+
+    @Html.ActionLink("Edit", "Edit")
+</p>
